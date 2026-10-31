@@ -18,7 +18,7 @@ Sé que lo que esta por venir puede ser más desafiante, quizá venga acompañad
 
 Ojalá este nuevo año te traiga todo aquello que deseas y muchísimos motivos para sonreír. Y, sobre todo, ojalá podamos seguir compartiendo momentos, creando recuerdos juntos y estando presentes el uno para el otro, incluso cuando las cosas no sean tan fáciles.
 
-Te quiero, ayer, hoy y siempre.`
+Te quiero, ayer, hoy y siempre .`
 };
 
 const $ = id => document.getElementById(id);
